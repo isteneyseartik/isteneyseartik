@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isteneyseartik
+- 👋 Hi, I’m Sezer
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Dart!
 - 📫 You can reach me on Instagram: @isteneyseartik
