@@ -1,4 +1,4 @@
 - Hi, I’m Sezer
 - I’m interested in Mobile App and Website Development
 - I’m currently learning Flutter/Dart
-- You can reach me on [LinkedIn](linkedin.com/in/sezeralaca)
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/sezeralaca/)
